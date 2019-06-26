@@ -18,5 +18,8 @@ The metaphone_suggestions(word, count) function returns a list of suggestions, u
 ## machine_translation.ipynb, different_embeddings.ipynb, weiss_deep_spell.ipynb
 These notebooks contain other attempted methods for this project
 
+## splchk.py
+Flask API implementation
+
 ## data
 The data folder contains much of the data needed by the notebooks to run. 
