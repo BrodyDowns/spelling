@@ -1,4 +1,4 @@
-#Work on Children's Spellchecker
+# Work on Children's Spellchecker
 
 ## phonetics.ipynb
 This notebook contains most of the work focused on in the paper.
